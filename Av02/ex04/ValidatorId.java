@@ -1,3 +1,0 @@
-public enum ValidatorId {
-    SCHEMA, CERTIFICADO, REGRAS_FISCAIS, BANCO_DADOS, SEFAZ
-}
